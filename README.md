@@ -1,6 +1,6 @@
 ## Hi, I’m Vedant 👋
 
-I design and build **Embedded and Analog Hardware** — from schematics and PCB layout to in-house prototypes that are powered, tested, debugged, and iterated.
+I design and build **Embedded and Analog Hardware** — from **Schematics and PCB Layout to In-House prototypes** that are powered, tested, debugged, and iterated.
 My work emphasis on learning through hands-on experimentation, where design choices face real-world constraints instead of simulations alone.
 
 ---
