@@ -10,7 +10,7 @@ If you only have a few minutes, these best represent my work:
 
 🔹 [**PMDC Motor Driver**](https://github.com/ChaosKinggg/Embedded-Hardware-Projects/tree/main/PMDC%20Motor%20Driver): Discrete NMOS motor driver with in-house prototypig and testing.
 
-🔹 [**STM32F407-DISC Buffer Board RC-25**](https://github.com/ChaosKinggg/Robocon-2025-BRACTs-VIT-Pune-boards/tree/main/STM32F407-DISC%20Buffer%20Board%20RC-25): 
+🔹 [**STM32F407-DISC Buffer Board RC-25**](https://github.com/ChaosKinggg/Robocon-2025-BRACTs-VIT-Pune-boards/tree/main/STM32F407-DISC%20Buffer%20Board%20RC-25): Interface and buffering board for STM32F407 DISC based control systems.
   
 🔹 [**ESP32-C6 Dev Board**](https://github.com/ChaosKinggg/Embedded-Hardware-Projects/tree/main/ESP32-C6%20Dev%20Board): Custom MCU dev board for bring-up and firmware development.
 
