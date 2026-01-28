@@ -8,14 +8,11 @@ My work emphasis on learning through hands-on experimentation, where design choi
 ## Featured Projects
 If you only have a few minutes, these best represent my work:
 
-- 🔹 **PMDC Motor Driver**  
-  Discrete motor driver with in-house testing.
-  
-- 🔹 **ESP32-C6 Dev Board**  
-  Custom MCU board for bring-up and firmware development.
+🔹 [**PMDC Motor Driver**](https://github.com/ChaosKinggg/Embedded-Hardware-Projects/tree/main/PMDC%20Motor%20Driver): Discrete NMOS motor driver with in-house prototypig and testing.
 
-- 🔹 **Robocon 2025 Hardware Boards**  
-  Competition-used boards designed in Altium, iterated through in-house prototyping, and deployed during Robocon 2025.
+🔹 [**STM32F407-DISC Buffer Board RC-25**](https://github.com/ChaosKinggg/Robocon-2025-BRACTs-VIT-Pune-boards/tree/main/STM32F407-DISC%20Buffer%20Board%20RC-25): 
+  
+🔹 [**ESP32-C6 Dev Board**](https://github.com/ChaosKinggg/Embedded-Hardware-Projects/tree/main/ESP32-C6%20Dev%20Board): Custom MCU dev board for bring-up and firmware development.
 
 Detailed schematics, layouts, and build notes are available in the pinned repositories below.
 
