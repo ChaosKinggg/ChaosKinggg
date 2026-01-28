@@ -18,14 +18,12 @@ Detailed schematics, layouts, and build notes are available in the pinned reposi
 
 ---
 
-## 📦 Repositories
-- **Personal Hardware Projects**  
-  Self-driven embedded and hardware projects built purely for learning, experimentation, and skill development.
+## Repositories
+🔹 [**Personal Hardware Projects**](https://github.com/ChaosKinggg/Embedded-Hardware-Projects): A repository of in-house designed Embedded and Analog hardware projects featuring schematics, PCB designs, and test results built purely for learning, experimentation, and skill development.
 
-- **Robocon 2025 Hardware Boards**  
-  Competition-deployed designs developed for BRACT’s VIT Pune during Robocon 2025.
+🔹 [**Robocon 2025 BRACTs VIT-Pune Hardware Repository**](https://github.com/ChaosKinggg/Robocon-2025-BRACTs-VIT-Pune-boards): Showcase of Competition-used hardware boards developed by the BRACTs VIT Pune (Robocon team 2025), focusing on system integration and PCB design.
 
-📌 Both repositories are pinned below for easy access.
+Both repositories are pinned below for easy access.
 
 ---
 
@@ -37,14 +35,14 @@ Detailed schematics, layouts, and build notes are available in the pinned reposi
 
 ---
 
-### 🛠 Tools & Technologies
+### Tools & Technologies
 - **PCB Design**: Altium Designer  
 - **Firmware**: STM32CubeIDE, Arduino IDE  
 - **Simulation**: LTspice
 
 ---
 
-### 📌 Currently Exploring
+### Currently Exploring
 - VLSI and FPGAs  
 - Power and Analog Electronics
 
